@@ -1,24 +1,26 @@
-# João Paulo Sousa | Cybersecurity Student
+# João Paulo Sousa | Cybersecurity & Security Operations
 
-🎯 Cybersecurity Student | Aspiring SOC Analyst | Blue Team Operations | Incident Response
+🎯 SC-900 Certified | Aspiring SOC Analyst | Microsoft Sentinel | Blue Team Operations | Incident Response
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a cybersecurity student focused on Blue Team operations, security monitoring, and incident response.
+I am a cybersecurity student focused on Security Operations (SOC), Incident Response, Threat Detection, and Microsoft Security technologies.
 
-I enjoy investigating security alerts, analyzing logs, validating threats, and building practical experience through hands-on cybersecurity labs and real-world SOC scenarios.
+My practical experience is built through hands-on investigations, Microsoft Sentinel labs, threat analysis, and real-world security scenarios using platforms such as LetsDefend and Hack The Box.
 
 ---
 
 ## 🧠 Current Focus
 
-- SOC Analysis (Security Operations Center)
-- Incident Response & Threat Detection
 - Microsoft Sentinel
 - Microsoft Defender XDR
-- Log Analysis and Monitoring
+- Microsoft SC-200
+- Threat Detection & Response
+- KQL (Kusto Query Language)
+- Security Monitoring
+- Incident Response
 - Windows & Linux Security
 
 ---
@@ -27,8 +29,13 @@ I enjoy investigating security alerts, analyzing logs, validating threats, and b
 
 - Microsoft Sentinel
 - Microsoft Defender XDR
+- Azure Monitor
+- Log Analytics Workspace
+- KQL (Kusto Query Language)
 - Wireshark
 - CyberChef
+- VirusTotal
+- Windows Security
 - Linux (Ubuntu / Kali)
 - Python (Basic Scripting)
 - Git & GitHub
@@ -37,13 +44,16 @@ I enjoy investigating security alerts, analyzing logs, validating threats, and b
 
 ## 📚 Certifications & Training
 
+### ✅ Certifications
+
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 - Cisco Networking Academy – CyberOps Associate
 - Cisco Networking Academy – CCNA 1
 - Fortinet Certified Fundamentals (FCF)
 
-### Currently Studying
+### 📖 Currently Studying
 
-- Microsoft SC-200 (Security Operations Analyst)
+- Microsoft SC-200: Security Operations Analyst
 - CompTIA Security+
 
 ---
@@ -55,45 +65,63 @@ I enjoy investigating security alerts, analyzing logs, validating threats, and b
 
 ---
 
-## 💡 Learning & Interests
+## 💡 Areas of Interest
 
+- Security Operations Center (SOC)
+- Microsoft Sentinel
 - Threat Hunting
 - Incident Response
 - Malware Analysis
 - Security Monitoring
-- SIEM Technologies
+- Digital Forensics
 - Blue Team Operations
 
 ---
 
 ## 📂 Portfolio Repositories
 
-### 🛡️ Let's Defend Labs
+### 🛡️ LetsDefend Labs
 
-SOC investigations and incident response exercises performed in the Let's Defend training environment.
+Security investigations and incident response scenarios performed in the LetsDefend SOC environment.
 
 Topics include:
 
-- Phishing Investigations
 - Malware Analysis
+- Phishing Investigations
 - Web Attack Detection
 - IOC Identification
 - MITRE ATT&CK Mapping
-- Incident Response Workflows
+- Incident Response
 
 Repository:
 
-- [letsdefend-labs](https://github.com/Joaopmsitz/letsdefend-labs)
+- https://github.com/Joaopmsitz/letsdefend-labs
 
-Training Profile:
+---
 
-- [LetsDefend Profile](https://app.letsdefend.io/user/JoaopmsItz)
+### ☁️ Microsoft Sentinel Labs
+
+Hands-on Microsoft Sentinel labs focused on security monitoring, Azure telemetry, data ingestion, and SC-200 preparation.
+
+Topics include:
+
+- Microsoft Sentinel Deployment
+- Azure Activity Logs
+- Log Analytics Workspace
+- Azure Monitor
+- Data Ingestion
+- KQL Queries
+- Security Monitoring
+
+Repository:
+
+- https://github.com/Joaopmsitz/microsoft-sentinel-labs
 
 ---
 
 ### 🎯 Hack The Box Labs
 
-Collection of completed Hack The Box machines and Sherlock investigations used to develop offensive security knowledge and improve defensive analysis skills.
+Collection of completed Hack The Box machines and DFIR/Sherlock challenges used to strengthen both offensive and defensive cybersecurity skills.
 
 Topics include:
 
@@ -101,34 +129,30 @@ Topics include:
 - Exploitation
 - Privilege Escalation
 - Active Directory Fundamentals
-- Windows & Linux Fundamentals
-- Sherlock DFIR Challenges
-- Security Learning Notes
+- Windows & Linux Security
+- DFIR Challenges
 
 Repository:
 
-- [hackthebox-labs](https://github.com/Joaopmsitz/hackthebox-labs)
-
-Training Profile:
-
-- [Hack The Box Profile](https://app.hackthebox.com/users/2578759)
+- https://github.com/Joaopmsitz/hackthebox-labs
 
 ---
 
 ## 🔗 Profiles
 
-- [LetsDefend Profile](https://app.letsdefend.io/user/JoaopmsItz)
-- [Hack The Box Profile](https://app.hackthebox.com/users/2578759)
-- [LinkedIn](https://www.linkedin.com/in/joaopmsitz/)
-- [GitHub](https://github.com/Joaopmsitz)
+- LetsDefend
+- Hack The Box
+- LinkedIn
+- GitHub
 
 ---
 
 ## 🚀 Goals
 
-- Become a SOC Analyst
-- Strengthen Blue Team and Incident Response skills
 - Earn the Microsoft SC-200 certification
+- Become a SOC Analyst
+- Develop expertise in Microsoft Sentinel and Defender XDR
+- Strengthen Blue Team and Incident Response skills
 - Build a strong cybersecurity portfolio
 - Gain professional experience in Cybersecurity
 
@@ -136,7 +160,7 @@ Training Profile:
 
 ## 📫 Contact
 
-- LinkedIn: [João Paulo Sousa](https://www.linkedin.com/in/joaopmsitz/)
+- LinkedIn: João Paulo Sousa
 - Email: joao.pm.sousa@outlook.com
 
 ---
