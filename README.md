@@ -140,10 +140,10 @@ Repository:
 
 ## 🔗 Profiles
 
-- LetsDefend
-- Hack The Box
-- LinkedIn
-- GitHub
+- GitHub: https://github.com/Joaopmsitz
+- LinkedIn: https://www.linkedin.com/in/joaopmsitz/
+- LetsDefend: https://app.letsdefend.io/user/JoaopmsItz
+- Hack The Box: https://app.hackthebox.com/public/users/2578759
 
 ---
 
@@ -160,7 +160,7 @@ Repository:
 
 ## 📫 Contact
 
-- LinkedIn: João Paulo Sousa
+- LinkedIn: https://www.linkedin.com/in/joaopmsitz/
 - Email: joao.pm.sousa@outlook.com
 
 ---
