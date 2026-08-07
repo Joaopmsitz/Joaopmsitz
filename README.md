@@ -1,14 +1,14 @@
 # João Paulo Sousa | Cybersecurity & Security Operations
 
-🎯 SC-900 Certified | Aspiring SOC Analyst | Microsoft Sentinel | Blue Team Operations | Incident Response
+🎯 SC-900 Certified | SOC Analyst | Microsoft Sentinel | Blue Team Operations | Incident Response
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a cybersecurity student focused on Security Operations (SOC), Incident Response, Threat Detection, and Microsoft Security technologies.
+Cybersecurity professional focused on Security Operations (SOC), Incident Response, Threat Detection, and Microsoft Security technologies.
 
-My practical experience is built through hands-on investigations, Microsoft Sentinel labs, threat analysis, and real-world security scenarios using platforms such as LetsDefend and Hack The Box.
+Currently building hands-on experience through Microsoft Sentinel labs, LetsDefend investigations, Hack The Box challenges, and SC-200 preparation.
 
 ---
 
@@ -17,11 +17,10 @@ My practical experience is built through hands-on investigations, Microsoft Sent
 - Microsoft Sentinel
 - Microsoft Defender XDR
 - Microsoft SC-200
-- Threat Detection & Response
 - KQL (Kusto Query Language)
+- Threat Detection & Response
 - Security Monitoring
 - Incident Response
-- Windows & Linux Security
 
 ---
 
@@ -31,137 +30,38 @@ My practical experience is built through hands-on investigations, Microsoft Sent
 - Microsoft Defender XDR
 - Azure Monitor
 - Log Analytics Workspace
-- KQL (Kusto Query Language)
+- KQL
 - Wireshark
 - CyberChef
 - VirusTotal
 - Windows Security
-- Linux (Ubuntu / Kali)
-- Python (Basic Scripting)
+- Linux
 - Git & GitHub
 
 ---
 
-## 📚 Certifications & Training
+## 📚 Certifications
 
-### ✅ Certifications
+✅ Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-- Cisco Networking Academy – CyberOps Associate
-- Cisco Networking Academy – CCNA 1
-- Fortinet Certified Fundamentals (FCF)
+✅ Cisco CyberOps Associate
 
-### 📖 Currently Studying
+✅ Fortinet Certified Fundamentals (FCF)
 
-- Microsoft SC-200: Security Operations Analyst
+📖 Currently Studying:
+
+- Microsoft SC-200
 - CompTIA Security+
 
 ---
 
-## 🌎 Languages
+## 📂 Featured Projects
 
-- Portuguese: Native
-- English: C1 (Advanced)
-
----
-
-## 💡 Areas of Interest
-
-- Security Operations Center (SOC)
-- Microsoft Sentinel
-- Threat Hunting
-- Incident Response
-- Malware Analysis
-- Security Monitoring
-- Digital Forensics
-- Blue Team Operations
-
----
-
-## 📂 Portfolio Repositories
-
-### 🛡️ LetsDefend Labs
-
-Security investigations and incident response scenarios performed in the LetsDefend SOC environment.
-
-Topics include:
-
-- Malware Analysis
-- Phishing Investigations
-- Web Attack Detection
-- IOC Identification
-- MITRE ATT&CK Mapping
-- Incident Response
-
-Repository:
-
-- https://github.com/Joaopmsitz/letsdefend-labs
-
----
-
-### ☁️ Microsoft Sentinel Labs
-
-Hands-on Microsoft Sentinel labs focused on security monitoring, Azure telemetry, data ingestion, and SC-200 preparation.
-
-Topics include:
-
-- Microsoft Sentinel Deployment
-- Azure Activity Logs
-- Log Analytics Workspace
-- Azure Monitor
-- Data Ingestion
-- KQL Queries
-- Security Monitoring
-
-Repository:
-
-- https://github.com/Joaopmsitz/microsoft-sentinel-labs
-
----
-
-### 🎯 Hack The Box Labs
-
-Collection of completed Hack The Box machines and DFIR/Sherlock challenges used to strengthen both offensive and defensive cybersecurity skills.
-
-Topics include:
-
-- Enumeration
-- Exploitation
-- Privilege Escalation
-- Active Directory Fundamentals
-- Windows & Linux Security
-- DFIR Challenges
-
-Repository:
-
-- https://github.com/Joaopmsitz/hackthebox-labs
-
----
-
-## 🔗 Profiles
-
-- GitHub: https://github.com/Joaopmsitz
-- LinkedIn: https://www.linkedin.com/in/joaopmsitz/
-- LetsDefend: https://app.letsdefend.io/user/JoaopmsItz
-- Hack The Box: https://app.hackthebox.com/public/users/2578759
-
----
-
-## 🚀 Goals
-
-- Earn the Microsoft SC-200 certification
-- Become a SOC Analyst
-- Develop expertise in Microsoft Sentinel and Defender XDR
-- Strengthen Blue Team and Incident Response skills
-- Build a strong cybersecurity portfolio
-- Gain professional experience in Cybersecurity
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/joaopmsitz/
-- Email: joao.pm.sousa@outlook.com
+| Project | Description |
+|----------|------------|
+| LetsDefend Labs | SOC investigations involving phishing, malware, web attacks, brute force, and incident response |
+| Microsoft Sentinel Labs | Azure monitoring, log ingestion, KQL, and Microsoft Sentinel investigations |
+| Hack The Box Labs | Security labs, DFIR challenges, Active Directory, and Windows/Linux investigations |
 
 ---
 
