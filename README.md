@@ -1,6 +1,6 @@
 # João Paulo Sousa | Cybersecurity & Security Operations
 
-🎯 SC-900 Certified | SOC Analyst | Microsoft Sentinel | Blue Team Operations | Incident Response
+🎯 SC-900 Certified | Aspiring SOC Analyst | Microsoft Sentinel | Blue Team Operations | Incident Response
 
 ---
 
@@ -43,15 +43,17 @@ Currently building hands-on experience through Microsoft Sentinel labs, LetsDefe
 ## 📚 Certifications
 
 ✅ Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-
-✅ Cisco CyberOps Associate
-
-✅ Fortinet Certified Fundamentals (FCF)
+✅ Fortinet Certified Fundamentals in Cybersecurity (FCF)
 
 📖 Currently Studying:
-
-- Microsoft SC-200
+- Microsoft SC-200 (exam scheduled)
 - CompTIA Security+
+
+## 🎓 Courses & Training Completed
+
+- Cisco CyberOps Associate — Cisco NetAcad course (70h)
+- Cisco Ethical Hacker — Cisco NetAcad course
+- CCNA 1: Introduction to Networks — Cisco NetAcad course (70h)
 
 ---
 
