@@ -1,31 +1,38 @@
 # João Paulo Sousa | Cybersecurity & Security Operations
 
-🎯 SC-900 Certified | Aspiring SOC Analyst | Microsoft Sentinel | Blue Team Operations | Incident Response
+🎯 SC-900 Certified | Aspiring SOC Analyst | Blue Team | Cloud Security | Microsoft Security
 
 ---
 
 ## 👨‍💻 About Me
 
-Cybersecurity professional focused on Security Operations (SOC), Incident Response, Threat Detection, and Microsoft Security technologies.
+IT professional focused on building a career in Cybersecurity,
+with a particular interest in Blue Team, Security Operations (SOC),
+Network Security, and Cloud Security.
 
-Currently building hands-on experience through Microsoft Sentinel labs, LetsDefend investigations, Hack The Box challenges, and SC-200 preparation.
+Currently developing my skills through hands-on labs,
+networking studies, Microsoft security technologies,
+cloud environments, and cybersecurity platforms.
 
 ---
 
 ## 🧠 Current Focus
 
+- Cisco CCNA
+- Networking & Network Security
+- Microsoft Azure
 - Microsoft Sentinel
 - Microsoft Defender XDR
-- Microsoft SC-200
 - KQL (Kusto Query Language)
 - Threat Detection & Response
-- Security Monitoring
 - Incident Response
+- Blue Team Operations
 
 ---
 
 ## 🛠️ Tools & Technologies
 
+- Cisco Packet Tracer
 - Microsoft Sentinel
 - Microsoft Defender XDR
 - Azure Monitor
@@ -40,30 +47,75 @@ Currently building hands-on experience through Microsoft Sentinel labs, LetsDefe
 
 ---
 
-## 📚 Certifications
+## 📜 Certifications
 
 ✅ Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+
 ✅ Fortinet Certified Fundamentals in Cybersecurity (FCF)
 
-📖 Currently Studying:
-- Microsoft SC-200 (exam scheduled)
-- CompTIA Security+
+---
 
-## 🎓 Courses & Training Completed
+## 📖 Current Certification Roadmap
 
-- Cisco CyberOps Associate — Cisco NetAcad course (70h)
-- Cisco Ethical Hacker — Cisco NetAcad course
-- CCNA 1: Introduction to Networks — Cisco NetAcad course (70h)
+### 🥇 Priority 1 — Networking
+
+- 📖 Cisco CCNA
+
+### 🥈 Priority 2 — Cloud
+
+- 📖 Microsoft AZ-104
+
+### 🥉 Priority 3 — Cybersecurity
+
+- 📖 Microsoft SC-200
+- 📖 CompTIA Security+
+
+### ☁️ Continuous Learning
+
+- AWS
+- Microsoft Sentinel / Defender Labs
+- Hack The Box
+- LetsDefend
+
+---
+
+## 🎓 Courses & Training
+
+### Cisco Networking Academy
+
+- Cisco CyberOps Associate — 70h
+- Cisco Ethical Hacker
+- CCNA: Introduction to Networks — 70h
+
+### Microsoft
+
+- Microsoft Sentinel
+- Microsoft Defender
+- KQL
+- Azure Security
 
 ---
 
 ## 📂 Featured Projects
 
 | Project | Description |
-|----------|------------|
-| LetsDefend Labs | SOC investigations involving phishing, malware, web attacks, brute force, and incident response |
-| Microsoft Sentinel Labs | Azure monitoring, log ingestion, KQL, and Microsoft Sentinel investigations |
-| Hack The Box Labs | Security labs, DFIR challenges, Active Directory, and Windows/Linux investigations |
+|---|---|
+| [CCNA Journey](https://github.com/Joaopmsitz/ccna-journey) | Networking studies, Cisco Packet Tracer labs and CCNA preparation |
+| Microsoft Sentinel Labs | Azure monitoring, log ingestion, KQL and Sentinel investigations |
+| LetsDefend Labs | SOC investigations involving phishing, malware, web attacks, brute force and incident response |
+| Hack The Box Labs | Security labs, DFIR, Active Directory and Windows/Linux investigations |
+
+---
+
+## 🎯 Career Direction
+
+Building a strong technical foundation across:
+
+**Networking → Cloud → Security → Detection → Response**
+
+with a long-term focus on:
+
+**Blue Team • SOC Operations • Network Security • Cloud Security**
 
 ---
 
