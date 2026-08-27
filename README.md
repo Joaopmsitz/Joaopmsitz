@@ -1,122 +1,118 @@
-# João Paulo Sousa | Cybersecurity & Security Operations
+# João Paulo Sousa
 
-🎯 SC-900 Certified | Aspiring SOC Analyst | Blue Team | Cloud Security | Microsoft Security
+**Cybersecurity · SOC · Networking · Microsoft Security**
 
----
+I'm an IT professional building my career in cybersecurity, with a focus on **Security Operations, Blue Team, networking and cloud security**.
 
-## 👨‍💻 About Me
+My learning is mainly based on **hands-on labs, practical investigations and technical documentation**, rather than only theoretical study.
 
-IT professional focused on building a career in Cybersecurity,
-with a particular interest in Blue Team, Security Operations (SOC),
-Network Security, and Cloud Security.
-
-Currently developing my skills through hands-on labs,
-networking studies, Microsoft security technologies,
-cloud environments, and cybersecurity platforms.
+Currently, I'm focusing on networking fundamentals and Microsoft security technologies, while building projects and labs to strengthen my practical experience.
 
 ---
 
-## 🧠 Current Focus
+## Areas of Focus
 
-- Cisco CCNA
-- Networking & Network Security
-- Microsoft Azure
-- Microsoft Sentinel
-- Microsoft Defender XDR
-- KQL (Kusto Query Language)
-- Threat Detection & Response
-- Incident Response
-- Blue Team Operations
-
----
-
-## 🛠️ Tools & Technologies
-
-- Cisco Packet Tracer
-- Microsoft Sentinel
-- Microsoft Defender XDR
-- Azure Monitor
-- Log Analytics Workspace
-- KQL
-- Wireshark
-- CyberChef
-- VirusTotal
-- Windows Security
-- Linux
-- Git & GitHub
+* Networking & Network Security
+* Security Operations (SOC)
+* Threat Detection & Incident Response
+* Microsoft Sentinel
+* Microsoft Defender
+* KQL
+* Azure
+* Windows & Linux
 
 ---
 
-## 📜 Certifications
+## Hands-on Labs & Projects
 
-✅ Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+### Microsoft Security
 
-✅ Fortinet Certified Fundamentals in Cybersecurity (FCF)
+* Microsoft Sentinel labs
+* Log Analytics & data collection
+* KQL queries and detection rules
+* Windows Security Events
+* Microsoft Defender investigations
 
----
+### Networking
 
-## 📖 Current Certification Roadmap
+* Cisco Packet Tracer labs
+* Network fundamentals
+* Switching & routing
+* Network troubleshooting
+* Network security concepts
 
-### 🥇 Priority 1 — Networking
+### Cybersecurity
 
-- 📖 Cisco CCNA
-
-### 🥈 Priority 2 — Cloud
-
-- 📖 Microsoft AZ-104
-
-### 🥉 Priority 3 — Cybersecurity
-
-- 📖 Microsoft SC-200
-- 📖 CompTIA Security+
-
-### ☁️ Continuous Learning
-
-- AWS
-- Microsoft Sentinel / Defender Labs
-- Hack The Box
-- LetsDefend
+* SOC investigations
+* Phishing analysis
+* Malware analysis
+* Web attacks
+* Brute-force investigations
+* DFIR fundamentals
 
 ---
 
-## 🎓 Courses & Training
+## Certifications
+
+* **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
+* **Fortinet Certified Fundamentals in Cybersecurity (FCF)**
+
+---
+
+## Training
 
 ### Cisco Networking Academy
 
-- Cisco CyberOps Associate — 70h
-- Cisco Ethical Hacker
-- CCNA: Introduction to Networks — 70h
+* Cisco CyberOps Associate — 70h
+* CCNA: Introduction to Networks — 70h
+* Cisco Ethical Hacker
 
 ### Microsoft
 
-- Microsoft Sentinel
-- Microsoft Defender
-- KQL
-- Azure Security
+* Microsoft Sentinel
+* Microsoft Defender
+* KQL
+* Azure Security
 
 ---
 
-## 📂 Featured Projects
+## Featured Repositories
 
-| Project | Description |
-|---|---|
-| [CCNA Journey](https://github.com/Joaopmsitz/ccna-journey) | Networking studies, Cisco Packet Tracer labs and CCNA preparation |
-| Microsoft Sentinel Labs | Azure monitoring, log ingestion, KQL and Sentinel investigations |
-| LetsDefend Labs | SOC investigations involving phishing, malware, web attacks, brute force and incident response |
-| Hack The Box Labs | Security labs, DFIR, Active Directory and Windows/Linux investigations |
+### [CCNA Journey](https://github.com/Joaopmsitz/ccna-journey)
 
----
+Networking studies, Cisco Packet Tracer labs and technical notes.
 
-## 🎯 Career Direction
+### Microsoft Sentinel Labs
 
-Building a strong technical foundation across:
+Practical labs involving Azure, Log Analytics, data collection, KQL and detection.
 
-**Networking → Cloud → Security → Detection → Response**
+### LetsDefend Labs
 
-with a long-term focus on:
+SOC investigations covering phishing, malware, web attacks, brute force and incident response.
 
-**Blue Team • SOC Operations • Network Security • Cloud Security**
+### Hack The Box Labs
+
+Hands-on security labs involving Windows, Linux, Active Directory and DFIR.
 
 ---
 
-⭐ Always learning, always improving.
+## Currently Studying
+
+**Networking → Azure → Security Operations**
+
+Current studies include:
+
+* Cisco networking
+* Microsoft Azure
+* Microsoft Sentinel & Defender
+* KQL
+* SOC operations
+* Threat detection and response
+
+---
+
+## Connect
+
+I'm interested in **Cybersecurity, SOC, Blue Team, Networking and Cloud Security**.
+
+Feel free to explore my repositories and labs.
