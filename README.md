@@ -2,97 +2,106 @@
 
 **Cybersecurity · SOC · Networking · Microsoft Security**
 
-I'm an IT professional building my career in cybersecurity, with a focus on **Security Operations, Blue Team, networking and cloud security**.
+I'm an ADS student and IT professional with experience in **technical support and IT operations in corporate environments**.
 
-My learning is mainly based on **hands-on labs, practical investigations and technical documentation**, rather than only theoretical study.
+My current focus is building a career in **Cybersecurity, Cloud and Infrastructure**, with hands-on experience and studies involving **Microsoft Azure, Microsoft Sentinel, Microsoft Defender, networking and Security Operations**.
 
-Currently, I'm focusing on networking fundamentals and Microsoft security technologies, while building projects and labs to strengthen my practical experience.
+I document my labs and projects on GitHub as I learn, focusing on practical implementation, investigation and technical understanding.
 
 ---
 
 ## Areas of Focus
 
-* Networking & Network Security
 * Security Operations (SOC)
+* Blue Team
 * Threat Detection & Incident Response
 * Microsoft Sentinel
-* Microsoft Defender
+* Microsoft Defender XDR
 * KQL
-* Azure
+* Microsoft Azure
+* Networking & Network Security
 * Windows & Linux
+* DFIR
 
 ---
 
-## Hands-on Labs & Projects
+## Experience
 
-### Microsoft Security
+**Attend Service — Service Operations Assistant | Technical Support**
+*August 2025 – Present*
 
-* Microsoft Sentinel labs
-* Log Analytics & data collection
-* KQL queries and detection rules
-* Windows Security Events
-* Microsoft Defender investigations
-
-### Networking
-
-* Cisco Packet Tracer labs
-* Network fundamentals
-* Switching & routing
-* Network troubleshooting
-* Network security concepts
-
-### Cybersecurity
-
-* SOC investigations
-* Phishing analysis
-* Malware analysis
-* Web attacks
-* Brute-force investigations
-* DFIR fundamentals
-
----
-
-## Certifications
-
-* **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
-* **Fortinet Certified Fundamentals in Cybersecurity (FCF)**
-
----
-
-## Training
-
-### Cisco Networking Academy
-
-* Cisco CyberOps Associate — 70h
-* CCNA: Introduction to Networks — 70h
-* Cisco Ethical Hacker
-
-### Microsoft
-
-* Microsoft Sentinel
-* Microsoft Defender
-* KQL
-* Azure Security
+* Technical support for corporate clients, handling incidents and service requests within established SLAs
+* Ticket management using GLPI, including categorization, prioritization and escalation
+* Incident triage and monitoring in network environments
+* Interaction with NOC, SOC, Infrastructure and SAP teams during incident resolution
 
 ---
 
 ## Featured Repositories
 
-### [CCNA Journey](https://github.com/Joaopmsitz/ccna-journey)
+| Repository                                                                       | Description                                                                                     |
+| -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [CCNA Networking Labs](https://github.com/Joaopmsitz/ccna-networking-labs)       | Networking studies, Cisco Packet Tracer labs and technical notes.                               |
+| [Microsoft Sentinel Labs](https://github.com/Joaopmsitz/microsoft-sentinel-labs) | Practical labs involving Azure, Log Analytics, KQL, data collection and detection.              |
+| [Hack The Box Labs](https://github.com/Joaopmsitz/hackthebox-labs)               | Security labs involving Windows, Linux, Active Directory and DFIR.                              |
+| [LetsDefend Labs](https://github.com/Joaopmsitz/letsdefend-labs)                 | SOC investigations involving phishing, malware, web attacks, brute force and incident response. |
 
-Networking studies, Cisco Packet Tracer labs and technical notes.
+---
 
-### Microsoft Sentinel Labs
+## Hands-on Security Labs
 
-Practical labs involving Azure, Log Analytics, data collection, KQL and detection.
+### Microsoft Sentinel
 
-### LetsDefend Labs
+* SIEM implementation in Microsoft Azure
+* Log Analytics and log ingestion
+* KQL queries
+* Analytics Rules
+* Incident investigation
+* Threat Hunting
+* SOAR with automated Playbooks
 
-SOC investigations covering phishing, malware, web attacks, brute force and incident response.
+### Microsoft Defender XDR
 
-### Hack The Box Labs
+* Alert and incident investigation
+* Security signal analysis
+* Advanced Hunting
 
-Hands-on security labs involving Windows, Linux, Active Directory and DFIR.
+### LetsDefend
+
+* SOC investigations
+* Phishing and malware analysis
+* Brute-force and web attack investigations
+* IOC analysis
+* MITRE ATT&CK mapping
+
+### Hack The Box
+
+* Enumeration
+* Vulnerability analysis
+* Networking
+* Windows & Linux
+* Active Directory
+* Sherlocks and DFIR investigations
+
+---
+
+## Certifications
+
+* **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)** — 2026
+* **Fortinet Certified Fundamentals in Cybersecurity (FCF)** — 2026
+* **Cisco CyberOps Associate** — Cisco Networking Academy, 70h
+* **Cisco Ethical Hacker** — Cisco Networking Academy
+* **CCNA: Introduction to Networks** — Cisco Networking Academy, 70h
+
+---
+
+## Education
+
+**Associate Degree in Systems Analysis and Development (ADS)**
+Facimp Wyden · Expected 2027
+
+**Specialization in Digital Forensics & Incident Response**
+Hackers do Bem · 2026
 
 ---
 
@@ -100,19 +109,39 @@ Hands-on security labs involving Windows, Linux, Active Directory and DFIR.
 
 **Networking → Azure → Security Operations**
 
-Current studies include:
-
 * Cisco networking
 * Microsoft Azure
 * Microsoft Sentinel & Defender
 * KQL
 * SOC operations
 * Threat detection and response
+* Incident response
+
+### Certifications in Preparation
+
+* Microsoft **SC-200 — Security Operations Analyst**
+* Cisco **CyberOps Associate (200-201 CBROPS)**
 
 ---
 
-## Connect
+## Technical Skills
 
-I'm interested in **Cybersecurity, SOC, Blue Team, Networking and Cloud Security**.
+**Cloud & Security**
+Microsoft Sentinel · Microsoft Defender XDR · SIEM · SOAR · Log Analytics · Azure Monitor
 
-Feel free to explore my repositories and labs.
+**Security Operations**
+KQL · Threat Hunting · Incident Response · Security Monitoring · IOC Analysis · MITRE ATT&CK
+
+**Infrastructure & Networking**
+Windows · Linux · Active Directory · TCP/IP · DNS · DHCP · VPN · Wireshark
+
+**Languages**
+English — B2 · Spanish — Intermediate
+
+---
+
+## Contact
+
+* **Email:** [joao.pm.sousa@outlook.com](mailto:joao.pm.sousa@outlook.com)
+* **LinkedIn:** [linkedin.com/in/joaopmsitz](https://www.linkedin.com/in/joaopmsitz)
+* **GitHub:** [github.com/Joaopmsitz](https://github.com/Joaopmsitz)
