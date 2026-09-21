@@ -12,16 +12,13 @@ I document my labs and projects on GitHub as I learn, focusing on practical impl
 
 ## Areas of Focus
 
-* Security Operations (SOC)
-* Blue Team
+* Security Operations (SOC) & Blue Team
 * Threat Detection & Incident Response
-* Microsoft Sentinel
-* Microsoft Defender XDR
-* KQL
-* Microsoft Azure
+* Microsoft Sentinel & Defender XDR
+* KQL & SIEM/SOAR Implementation
 * Networking & Network Security
-* Windows & Linux
-* DFIR
+* Digital Forensics & Incident Response (DFIR)
+* Windows & Linux Security
 
 ---
 
@@ -39,19 +36,24 @@ I document my labs and projects on GitHub as I learn, focusing on practical impl
 
 ## Featured Repositories
 
-| Repository                                                                       | Description                                                                                     |
-| -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [CCNA Networking Labs](https://github.com/Joaopmsitz/ccna-networking-labs)       | Networking studies, Cisco Packet Tracer labs and technical notes.                               |
-| [Microsoft Sentinel Labs](https://github.com/Joaopmsitz/microsoft-sentinel-labs) | Practical labs involving Azure, Log Analytics, KQL, data collection and detection.              |
-| [Hack The Box Labs](https://github.com/Joaopmsitz/hackthebox-labs)               | Security labs involving Windows, Linux, Active Directory and DFIR.                              |
-| [LetsDefend Labs](https://github.com/Joaopmsitz/letsdefend-labs)                 | SOC investigations involving phishing, malware, web attacks, brute force and incident response. |
+| Repository | Description |
+| :--- | :--- |
+| [Hackers do Bem Labs](https://github.com/Joaopmsitz/hackers-do-bem-labs) | Hands-on labs focused on Digital Forensics, Incident Response, and core cybersecurity fundamentals. |
+| [CCNA Networking Labs](https://github.com/Joaopmsitz/ccna-networking-labs) | Networking studies, Cisco Packet Tracer labs, routing, switching, and technical notes. |
+| [Microsoft Sentinel Labs](https://github.com/Joaopmsitz/microsoft-sentinel-labs) | Practical labs involving Azure, Log Analytics, KQL, data collection, and threat detection. |
+| [LetsDefend Labs](https://github.com/Joaopmsitz/letsdefend-labs) | SOC investigations involving phishing, malware, web attacks, brute force, and incident response. |
+| [Hack The Box Labs](https://github.com/Joaopmsitz/hackthebox-labs) | Security labs involving Windows, Linux, Active Directory, DFIR, and vulnerability assessment. |
 
 ---
 
 ## Hands-on Security Labs
 
-### Microsoft Sentinel
+### Hackers do Bem
+* Digital Forensics & Incident Response (DFIR)
+* Network traffic analysis and packet analysis
+* Practical cybersecurity fundamentals and lab investigations
 
+### Microsoft Sentinel
 * SIEM implementation in Microsoft Azure
 * Log Analytics and log ingestion
 * KQL queries
@@ -61,13 +63,11 @@ I document my labs and projects on GitHub as I learn, focusing on practical impl
 * SOAR with automated Playbooks
 
 ### Microsoft Defender XDR
-
 * Alert and incident investigation
 * Security signal analysis
 * Advanced Hunting
 
 ### LetsDefend
-
 * SOC investigations
 * Phishing and malware analysis
 * Brute-force and web attack investigations
@@ -75,9 +75,7 @@ I document my labs and projects on GitHub as I learn, focusing on practical impl
 * MITRE ATT&CK mapping
 
 ### Hack The Box
-
-* Enumeration
-* Vulnerability analysis
+* Enumeration & Vulnerability analysis
 * Networking
 * Windows & Linux
 * Active Directory
@@ -136,7 +134,7 @@ KQL · Threat Hunting · Incident Response · Security Monitoring · IOC Analysi
 Windows · Linux · Active Directory · TCP/IP · DNS · DHCP · VPN · Wireshark
 
 **Languages**
-English — B2 · Spanish — Intermediate
+English — C1 · Spanish — B1
 
 ---
 
