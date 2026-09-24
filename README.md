@@ -15,7 +15,7 @@ I document my labs and projects on GitHub as I learn, focusing on practical impl
 * Security Operations (SOC) & Blue Team
 * Threat Detection & Incident Response
 * Microsoft Sentinel & Defender XDR
-* KQL & SIEM/SOAR Implementation
+* KQL & SIEM/SOAR
 * Networking & Network Security
 * Digital Forensics & Incident Response (DFIR)
 * Windows & Linux Security
@@ -36,38 +36,31 @@ I document my labs and projects on GitHub as I learn, focusing on practical impl
 
 ## Featured Repositories
 
-| Repository | Description |
-| :--- | :--- |
-| [Hackers do Bem Labs](https://github.com/Joaopmsitz/hackers-do-bem-labs) | Hands-on labs focused on Digital Forensics, Incident Response, and core cybersecurity fundamentals. |
-| [CCNA Networking Labs](https://github.com/Joaopmsitz/ccna-networking-labs) | Networking studies, Cisco Packet Tracer labs, routing, switching, and technical notes. |
-| [Microsoft Sentinel Labs](https://github.com/Joaopmsitz/microsoft-sentinel-labs) | Practical labs involving Azure, Log Analytics, KQL, data collection, and threat detection. |
-| [LetsDefend Labs](https://github.com/Joaopmsitz/letsdefend-labs) | SOC investigations involving phishing, malware, web attacks, brute force, and incident response. |
-| [Hack The Box Labs](https://github.com/Joaopmsitz/hackthebox-labs) | Security labs involving Windows, Linux, Active Directory, DFIR, and vulnerability assessment. |
+| Repository                                                                     | Description                                                                                                                                                  |
+| :----------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Cybersecurity Labs](https://github.com/Joaopmsitz/cybersecurity-labs)         | Consolidated collection of hands-on cybersecurity labs covering Microsoft Security, SOC operations, networking, Hack The Box, LetsDefend and Hackers do Bem. |
+| [Home Cyber Environment](https://github.com/Joaopmsitz/home-cyber-environment) | Personal cybersecurity infrastructure project involving virtualization, networking, Windows/Linux systems, security monitoring and hybrid cloud concepts.    |
+| [GitHub Profile](https://github.com/Joaopmsitz)                                | Personal GitHub profile and portfolio.                                                                                                                       |
 
 ---
 
-## Hands-on Security Labs
+## Cybersecurity Labs
 
-### Hackers do Bem
-* Digital Forensics & Incident Response (DFIR)
-* Network traffic analysis and packet analysis
-* Practical cybersecurity fundamentals and lab investigations
+My hands-on labs are consolidated in **[Cybersecurity Labs](https://github.com/Joaopmsitz/cybersecurity-labs)**.
 
-### Microsoft Sentinel
-* SIEM implementation in Microsoft Azure
+### Microsoft Security
+
+* Microsoft Sentinel deployment and configuration
 * Log Analytics and log ingestion
-* KQL queries
-* Analytics Rules
-* Incident investigation
-* Threat Hunting
-* SOAR with automated Playbooks
-
-### Microsoft Defender XDR
-* Alert and incident investigation
-* Security signal analysis
+* KQL queries and threat hunting
+* Analytics rules and incident investigation
+* Microsoft Defender XDR
 * Advanced Hunting
+* Sentinel SOAR and automation
+* Azure Firewall integration
 
 ### LetsDefend
+
 * SOC investigations
 * Phishing and malware analysis
 * Brute-force and web attack investigations
@@ -75,11 +68,27 @@ I document my labs and projects on GitHub as I learn, focusing on practical impl
 * MITRE ATT&CK mapping
 
 ### Hack The Box
-* Enumeration & Vulnerability analysis
-* Networking
-* Windows & Linux
+
+* Enumeration and vulnerability analysis
+* Windows and Linux
 * Active Directory
-* Sherlocks and DFIR investigations
+* Sherlocks
+* DFIR investigations
+
+### Hackers do Bem
+
+* Digital Forensics & Incident Response (DFIR)
+* Network traffic and packet analysis
+* Cybersecurity fundamentals
+* Practical security investigations
+
+### Networking
+
+* Cisco networking
+* Routing and switching
+* Cisco Packet Tracer
+* TCP/IP
+* Network troubleshooting
 
 ---
 
@@ -107,18 +116,17 @@ Hackers do Bem · 2026
 
 **Networking → Azure → Security Operations**
 
-* Cisco networking
 * Microsoft Azure
 * Microsoft Sentinel & Defender
 * KQL
 * SOC operations
 * Threat detection and response
 * Incident response
+* Networking and security fundamentals
 
 ### Certifications in Preparation
 
 * Microsoft **SC-200 — Security Operations Analyst**
-* Cisco **CyberOps Associate (200-201 CBROPS)**
 
 ---
 
@@ -134,7 +142,7 @@ KQL · Threat Hunting · Incident Response · Security Monitoring · IOC Analysi
 Windows · Linux · Active Directory · TCP/IP · DNS · DHCP · VPN · Wireshark
 
 **Languages**
-English — C1 · Spanish — B1
+English · Spanish
 
 ---
 
