@@ -138,3 +138,15 @@ Preparing for the **Microsoft SC-200 — Security Operations Analyst** certifica
 - **Email:** [joao.pm.sousa@outlook.com](mailto:joao.pm.sousa@outlook.com)
 - **LinkedIn:** [linkedin.com/in/joaopmsitz](https://www.linkedin.com/in/joaopmsitz)
 - **GitHub:** [github.com/Joaopmsitz](https://github.com/Joaopmsitz)
+
+<!-- PORTFOLIO-REPOSITORIES:START -->
+## Technical Portfolios
+
+I maintain separate repositories to document practical work across cybersecurity, networking, and cloud technologies.
+
+| Portfolio | Focus |
+|---|---|
+| [Cybersecurity Labs](https://github.com/Joaopmsitz/cybersecurity-labs) | Hack The Box, LetsDefend, Hackers do Bem, SOC investigations, and defensive security. |
+| [Networking Labs](https://github.com/Joaopmsitz/networking-labs) | Cisco NetAcad, CCNA 1 and CCNA 2, Packet Tracer, and networking practice. |
+| [Cloud Labs](https://github.com/Joaopmsitz/cloud-labs) | AWS, Azure, Microsoft Security, cloud infrastructure, and cloud security. |
+<!-- PORTFOLIO-REPOSITORIES:END -->
