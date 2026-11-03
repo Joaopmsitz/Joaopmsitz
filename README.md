@@ -1,6 +1,6 @@
 # João Paulo Sousa
 
-**Cybersecurity · SOC · Blue Team · Networking**
+**Cybersecurity · SOC · Blue Team · Networking · Cloud**
 
 I'm an Information Systems Analysis and Development (ADS) student and IT professional with experience in technical support and IT operations in corporate environments.
 
@@ -37,11 +37,11 @@ I document my technical studies, hands-on labs, and projects on GitHub, emphasiz
 ## Featured Projects
 
 | Repository | Description |
-| --- | --- |
-| [Cybersecurity Labs](https://github.com/Joaopmsitz/cybersecurity-labs) | Hands-on cybersecurity labs covering SOC operations, Microsoft Security, networking, DFIR, Hack The Box, LetsDefend, and Hackers do Bem. |
-| [Home Cyber Environment](https://github.com/Joaopmsitz/home-cyber-environment) | Personal cybersecurity lab focused on virtualization, networking, Windows/Linux systems, security monitoring, and hybrid cloud concepts. |
-
----
+|---|---|
+| [Cybersecurity Labs](https://github.com/Joaopmsitz/cybersecurity-labs) | Hands-on cybersecurity labs covering Hack The Box, LetsDefend, Hackers do Bem, SOC operations, incident investigations, and defensive security. |
+| [Networking Labs](https://github.com/Joaopmsitz/networking-labs) | Cisco Networking Academy, CCNA 1 and CCNA 2, Jeremy's IT Lab, Packet Tracer, and networking practice. |
+| [Cloud Labs](https://github.com/Joaopmsitz/cloud-labs) | AWS, Microsoft Azure, Microsoft Sentinel, Defender XDR, cloud infrastructure, and cloud security. |
+| [Home Cyber Environment](https://github.com/Joaopmsitz/home-cyber-environment) | Personal cybersecurity lab focused on virtualization, networking, Windows/Linux systems, security monitoring, and infrastructure concepts. |
 
 ## Hands-on Practice
 
@@ -90,9 +90,12 @@ I document my technical studies, hands-on labs, and projects on GitHub, emphasiz
 
 ## Certifications
 
-- **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)** — 2026
-- **Fortinet Certified Fundamentals in Cybersecurity (FCF)** — 2026
-- **Google Cybersecurity Professional Certificate** — Completed
+| Certification | Status |
+|---|---|
+| Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900) | Earned — 2026 |
+| Microsoft Certified: Security Operations Analyst Associate (SC-200) | Earned — 2026 |
+| Fortinet Certified Fundamentals in Cybersecurity (FCF) | Earned — 2026 |
+| Google Cybersecurity Professional Certificate | Completed |
 
 ## Technical Training
 
@@ -112,14 +115,12 @@ Facimp Wyden · Expected 2027
 
 ## Current Focus
 
-Preparing for the **Microsoft SC-200 — Security Operations Analyst** certification, with emphasis on:
+After earning the Microsoft SC-200 certification, I am expanding my practical knowledge across cybersecurity, networking, and cloud infrastructure.
 
-- Microsoft Sentinel and Defender XDR
-- KQL and threat hunting
-- Security incident investigation and response
-- SIEM/SOAR and SOC operations
-
----
+- CompTIA Security+ (SY0-701) preparation.
+- AWS Cloud Practitioner fundamentals and hands-on AWS labs.
+- CCNA studies, switching, routing, and network troubleshooting.
+- Continued practical work with Microsoft Sentinel, Defender XDR, KQL, and threat hunting.
 
 ## Technical Skills
 
@@ -149,4 +150,3 @@ I maintain separate repositories to document practical work across cybersecurity
 | [Cybersecurity Labs](https://github.com/Joaopmsitz/cybersecurity-labs) | Hack The Box, LetsDefend, Hackers do Bem, SOC investigations, and defensive security. |
 | [Networking Labs](https://github.com/Joaopmsitz/networking-labs) | Cisco NetAcad, CCNA 1 and CCNA 2, Packet Tracer, and networking practice. |
 | [Cloud Labs](https://github.com/Joaopmsitz/cloud-labs) | AWS, Azure, Microsoft Security, cloud infrastructure, and cloud security. |
-<!-- PORTFOLIO-REPOSITORIES:END -->
